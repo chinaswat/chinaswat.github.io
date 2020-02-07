@@ -13,12 +13,12 @@ owner:
   bio: "越是烦恼越不应该忘记微笑" # 填写作者信息：博客描述
 
 # Data
-gavatar: https://imgchr.com/i/1cIYFg # 浏览器地址栏小图标，可自定义更改
-favicon: https://imgchr.com/i/1cIYFg # 浏览器地址栏小图标，可自定义更改
+gavatar: imgchr.com/i/1cIYFg # 浏览器地址栏小图标，可自定义更改
+favicon: imgchr.com/i/1cIYFg # 浏览器地址栏小图标，可自定义更改
 
-facebook_username: 独败swat
+twitter_username: Defeat_Alone
 huluxia_username: 独败
-zhihu_username: 独败swat
+zhihu_username: chou-ge-ge-ren-shi-bu
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -40,8 +40,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "你的名字" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      author: "独败" # 你的名字
+      header-img: "imgchr.com/i/1cIYFg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
