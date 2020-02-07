@@ -13,9 +13,12 @@ header-img: "img/zhihu.jpg"
 
 记录葫芦侠 酷安 芥子空间 Twitter 一路走来的故事 
 
-酷安：![image](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3779837422,3566819388&fm=26&gp=0.jpg)
+酷安：![image](http://img.zcool.cn/community/01afd0590200daa8012145503b32e3.jpg@2o.jpg)
+
 2017年8月10日 注册 距离执笔日已经过去911天了
+
 命运使我们相遇 自此我开启了与酷安的故事
+
 酷安 发现科技生活 发现最好的自己
 
 
