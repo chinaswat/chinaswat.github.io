@@ -13,8 +13,8 @@ owner:
   bio: "越是烦恼越不应该忘记微笑" # 填写作者信息：博客描述
 
 # Data
-gavatar:https://github.com/chinaswat/chinaswat.github.io/blob/master/Defeat.png # 浏览器地址栏小图标，可自定义更改
-favicon:https://github.com/chinaswat/chinaswat.github.io/blob/master/Defeat.png # 浏览器地址栏小图标，可自定义更改
+gavatar: https://github.com/chinaswat/chinaswat.github.io/blob/master/Defeat.png # 浏览器地址栏小图标，可自定义更改
+favicon: https://github.com/chinaswat/chinaswat.github.io/blob/master/Defeat.png # 浏览器地址栏小图标，可自定义更改
 
 twitter_username: Defeat_Alone
 huluxia_username: 独败
